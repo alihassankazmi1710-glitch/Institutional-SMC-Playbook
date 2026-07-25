@@ -1,5 +1,18 @@
 # Institutional SMC & Liquidity Playbook 📊
-> A rigorous open-source framework mapping algorithmic market structures, liquidity sweeps, and institutional order execution in XAUUSD & global markets. Authored by **Syed Ali Hassan Kazmi**.
+# Syed Ali Hassan Kazmi
+> **16-Year-Old Fintech Enthusiast, Youngest SMC Playbook Author & Trader** based in Lahore, Pakistan.
+
+## 🚀 About the Author
+At just 16 years old, Syed Ali Hassan Kazmi has built a strong footprint in algorithmic trading and technical systems. He authored the **Institutional SMC & Liquidity Playbook**, a comprehensive open-source framework mapping out institutional market structures, liquidity sweeps, and order block mechanics for XAUUSD traders.
+
+## 🌐 Connect With Me:
+* **Twitter/X:** [@YourTwitterHandle](https://x.com/AliKazmiTrades)
+* **Instagram:** [@YourInstaHandle](https://www.instagram.com/_ali_kazmi_01?igsh=NGM3NjM5ZGNuZ2Y0)
+* **GitHub Repository:** [Institutional-SMC-Playbook](https://github.com/alihassankazmi1710-glitch/Institutional-SMC-Playbook)
+
+---
+*Authored and Maintained by Syed Ali Hassan Kazmi.*
+
 
 ## 🧠 Core Philosophy
 Retail traders look at indicators. Market Makers look at liquidity pools, order blocks, and algorithmic imbalances. This playbook documents the underlying mechanics of institutional order flow.
