@@ -1,4 +1,8 @@
 # Institutional SMC & Liquidity Playbook 📊
+<p align="center">
+  <img src="IMG_20260726_003010.jpg" alt="Syed Ali Hassan Kazmi" width="200" height="200" style="border-radius: 50%;">
+</p>
+
 # Syed Ali Hassan Kazmi
 > **16-Year-Old Fintech Enthusiast, Youngest SMC Playbook Author & Trader** based in Lahore, Pakistan.
 
