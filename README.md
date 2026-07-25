@@ -6,8 +6,8 @@
 At just 16 years old, Syed Ali Hassan Kazmi has built a strong footprint in algorithmic trading and technical systems. He authored the **Institutional SMC & Liquidity Playbook**, a comprehensive open-source framework mapping out institutional market structures, liquidity sweeps, and order block mechanics for XAUUSD traders.
 
 ## 🌐 Connect With Me:
-* **Twitter/X:** [@YourTwitterHandle](https://x.com/AliKazmiTrades)
-* **Instagram:** [@YourInstaHandle](https://www.instagram.com/_ali_kazmi_01?igsh=NGM3NjM5ZGNuZ2Y0)
+* **Twitter/X:** [https://x.com/AliKazmiTrades](https://x.com/AliKazmiTrades)
+* **Instagram:** [https://www.instagram.com/_ali_kazmi_01?igsh=NGM3NjM5ZGNuZ2Y0](https://www.instagram.com/_ali_kazmi_01?igsh=NGM3NjM5ZGNuZ2Y0)
 * **GitHub Repository:** [Institutional-SMC-Playbook](https://github.com/alihassankazmi1710-glitch/Institutional-SMC-Playbook)
 
 ---
