@@ -32,3 +32,17 @@ Once liquidity is swept, institutions deploy their primary positions. This is wh
 * When institutional orders flood the market with high volume, price moves too fast, leaving a 3-candle gap (inefficiency).
 * Price treats this gap like a magnet, eventually pulling back to mitigate the imbalance before resuming the true institutional trend.
 * 
+---
+
+## 🛡️ Chapter 3: Risk Management & Execution Rules
+
+An institutional playbook is incomplete without strict risk parameters. Smart Money always protects capital before chasing expansion.
+
+### 1. Risk-to-Reward Ratio (RRR)
+* Never enter a trade with less than a 1:2 or 1:3 RRR. Institutional setups leave clear invalidation points but offer massive expansion targets.
+
+### 2. Execution Discipline
+* Wait for confirmation (Market Structure Shift + FVG mitigation) rather than limit-ordering blindly into raw zones.
+
+---
+*Authored and Maintained by **Syed Ali Hassan Kazmi**.*
