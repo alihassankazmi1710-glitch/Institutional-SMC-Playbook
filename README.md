@@ -18,3 +18,17 @@ An institutional sweep occurs when price spikes past a key structural level, tri
 
 > *Rule of Thumb:* If a level looks too obvious to break, it is likely being targeted for a sweep, not a breakout.
 > 
+---
+
+## ⚡ Chapter 2: Order Blocks & Fair Value Gaps (FVGs)
+
+Once liquidity is swept, institutions deploy their primary positions. This is where Order Blocks and FVGs become your main entry tools.
+
+### 1. Identifying Institutional Order Blocks (OB)
+* An Order Block is the last opposing candle (bearish candle before an aggressive pump, or bullish candle before a dump) right before an impulsive market structure shift (MSS).
+* It represents the zone where institutional accumulation took place.
+
+### 2. Fair Value Gaps (FVG) / Market Imbalance
+* When institutional orders flood the market with high volume, price moves too fast, leaving a 3-candle gap (inefficiency).
+* Price treats this gap like a magnet, eventually pulling back to mitigate the imbalance before resuming the true institutional trend.
+* 
